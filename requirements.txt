@@ -1,0 +1,5 @@
+Flask
+nltk
+requests
+beautifulsoup4
+boto3
