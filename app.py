@@ -23,9 +23,9 @@ except LookupError:
     download('averaged_perceptron_tagger')
 
 # AWS credentials
-AWS_ACCESS_KEY = 'AKIA4MTWKQWDL32V5VO6'
-AWS_SECRET_KEY = '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'
-AWS_REGION = 'ap-south-1'
+AWS_ACCESS_KEY = '*******************'
+AWS_SECRET_KEY = '***********************'
+AWS_REGION = '***********'
 
 # Initialize Flask app
 app = Flask(__name__, template_folder='templates', static_folder='static')
